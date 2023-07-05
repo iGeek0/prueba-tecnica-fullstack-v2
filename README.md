@@ -1,6 +1,6 @@
 # Instrucciones
 
-El proyecto deberia mostrar una lista de lso paises del continente americano, al dar click en el nombre del pais mostrar y mensaje con la capital del mismo, imagen de referencia:
+El proyecto deberia mostrar una lista de los paises del continente americano, al dar click en el nombre del pais mostrar y mensaje con la capital del mismo, imagen de referencia:
 
 
 ![prueba](https://github.com/iGeek0/prueba-tecnica-fullstack-v2/assets/11724234/fdccbcb6-5609-444b-af5c-2fe1e2c52610)
