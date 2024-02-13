@@ -22,9 +22,9 @@ Además, se empleó la librería SweetAlert2.
 
 # Pistas
 
-¿Cómo puedo obtener información adicional sobre cómo usar SweetAlert (por ejemplo, cambiar el color del botón, hacer saltos de línea)?
-¿Cómo puedo obtener información sobre los datos que devuelve la API? ¿Hay alguna manera de previsualizar la información para revisarla antes de implementarla?
-¿Cuál es la diferencia entre Toastify y SweetAlert?
+- ¿Cómo puedo obtener información adicional sobre cómo usar SweetAlert (por ejemplo, cambiar el color del botón, hacer saltos de línea)?
+- ¿Cómo puedo obtener información sobre los datos que devuelve la API en el endpoint usado en particular? ¿Hay alguna manera de previsualizar la información para revisarla antes de implementarla?
+- ¿Cuál es la diferencia entre Toastify y SweetAlert?
 
 # Reto adicional
 
