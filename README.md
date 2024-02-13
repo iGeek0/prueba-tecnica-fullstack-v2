@@ -1,6 +1,6 @@
 # Instrucciones
 
-El proyecto deberia mostrar una lista de los paises del continente americano, al dar click en el nombre del pais mostrar y mensaje con la capital del mismo, imagen de referencia:
+El proyecto deberá mostrar una lista de los países del continente americano. Al hacer clic en el nombre del país, se mostrará un mensaje con su capital. Aquí tienes una imagen de referencia:
 
 
 ![prueba](https://github.com/iGeek0/prueba-tecnica-fullstack-v2/assets/11724234/fdccbcb6-5609-444b-af5c-2fe1e2c52610)
@@ -8,14 +8,13 @@ El proyecto deberia mostrar una lista de los paises del continente americano, al
 
 # Contexto: 
 
-La aplicacion dejo de funcionar correctamente
+La aplicación ha dejado de funcionar correctamente.
 
-Para los paises se uso la API: https://restcountries.com/#endpoints-full-name
+Se utilizó la API de https://restcountries.com/#endpoints-full-name para obtener información sobre los países.
 
-Tambien se uso la libreria sweetalert2
+Además, se empleó la librería SweetAlert2.
 
 
 # Reto adicional
 
-En lugar de usar sweetalert 2 se propone mostrar el mensaje de la capital usando alguna libreria como
-https://www.npmjs.com/package/react-toastify
+En lugar de emplear SweetAlert2, se propone mostrar el mensaje de la capital utilizando una biblioteca como React-Toastify (https://www.npmjs.com/package/react-toastify).
