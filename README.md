@@ -29,4 +29,4 @@ Además, se empleó la librería SweetAlert2.
 
 # Reto adicional
 
-En lugar de emplear SweetAlert2, se propone mostrar el mensaje de la capital utilizando una biblioteca como React-Toastify (https://www.npmjs.com/package/react-toastify).
+En lugar de emplear SweetAlert2, se propone mostrar el mensaje de la capital utilizando una biblioteca como React-Toastify ([[https://www.npmjs.com/package/react-toastify](https://react-hot-toast.com/)](https://react-hot-toast.com/)).
